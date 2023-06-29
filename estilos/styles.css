@@ -1,0 +1,250 @@
+*{
+    background-color: 1F192F;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+#navinicio a{
+    background-color:#302c4c;
+    border-radius: 10%;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 50px;
+    display: inline-block;
+    
+    
+}
+
+#barra{
+    display: flex;
+    margin-top: 15px;
+    height: 50px;
+
+}
+
+#imageninicio{
+    color: aliceblue;
+    
+}
+
+#navinicio{
+    
+    color: aliceblue;
+    width: 70%;
+    text-align: center;   
+}
+
+#registrar{
+    color: aliceblue;
+    padding-left: 150px;
+}
+
+#registrar a{
+    display: block;
+    padding-top: 3px;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+#imageninicio{
+    cursor: pointer;
+    transition: all 0.3s;
+    padding-left: 15px;
+    padding-top: 5px;
+    margin-left: 20px;
+}
+
+#imageninicio img:hover{
+    transform: scale(1.1);
+}
+
+.bx-down-arrow-alt{
+    background-color: #302c4c;
+}
+
+#trending{
+    height: 200px;
+    width: 360px;
+    margin-left: 575px;
+    margin-top: 160px;
+    border-radius: 0px;   
+}
+
+#trending p{
+    color: aliceblue;
+    font-size: 25px; 
+    position: relative;
+    bottom: 30px;
+    left: 5px;
+}
+
+.fototext{
+    display: flex;
+    height: 80px;
+}
+
+.info{
+    color:aliceblue;
+    padding-bottom: 5px;
+}
+
+.principalesNoticias{
+    height: 200px;
+    width: 460px;
+    padding-left: 100px;
+    margin-top: 160px;
+    border-radius: 0px; 
+}
+
+.principalesNoticias p{
+    color: aliceblue;
+    font-size: 25px; 
+    position: relative;
+    bottom:60px;
+    left: 35px;
+}
+
+.divpadre{
+    height: auto;
+    width: 100%;
+    display: flex;
+}
+
+.textcth{
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.divdelosp{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.divdelosp p{
+    color: aliceblue;
+    font-size: 30px;
+    padding: 0px 20px;
+    margin: 0px;
+}
+
+
+.divdelosp .chico{
+   font-weight: 300;
+   font-size: 20px; 
+}
+
+.compucelu{
+    width: 50%;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.compucelu p{
+    color: aliceblue;
+    margin: 0;
+    font-weight: 300;
+}
+
+.compucelu .titulop{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.qr{
+    position: relative;
+    left: 1050px;
+    bottom: 300px;
+
+}
+
+.iconos{
+    position: relative;
+    left: 1100px;
+    bottom: 250px;
+    width: 200px;
+    padding: 0px 50px;
+}
+
+.robot{
+    float: right;
+    position: relative;
+    bottom: 550px;  
+    width: 400px;
+}
+
+
+/* pagina principal css */
+/*  */
+/*  */
+
+*{
+    background-color: 1F192F;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+#navinicio a{
+    background-color:#302c4c;
+    border-radius: 10%;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 50px;
+    display: inline-block;
+    
+    
+}
+
+#barra{
+    display: flex;
+    margin-top: 15px;
+    height: 50px;
+
+}
+
+#imageninicio{
+    color: aliceblue;
+    
+}
+
+#navinicio{
+    
+    color: aliceblue;
+    width: 70%;
+    text-align: center;   
+}
+
+#registrar{
+    color: aliceblue;
+    padding-left: 150px;
+}
+
+#registrar a{
+    display: block;
+    padding-top: 3px;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+#imageninicio{
+    cursor: pointer;
+    transition: all 0.3s;
+    padding-left: 15px;
+    padding-top: 5px;
+    margin-left: 20px;
+}
+
+#imageninicio img:hover{
+    transform: scale(1.1);
+}
+
+.bx-down-arrow-alt{
+    background-color: #302c4c;
+}
