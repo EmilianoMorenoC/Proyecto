@@ -1,5 +1,4 @@
 *{
-    background-color: 1F192F;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
 }
@@ -183,68 +182,43 @@
 /*  */
 
 *{
-    background-color: 1F192F;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
+    background-color: rgb(31, 25, 47);
+    margin: 0;
+    padding: 0;
 }
 
-#navinicio a{
-    background-color:#302c4c;
-    border-radius: 10%;
-    -moz-border-radius: 7px;
-    -webkit-border-radius: 7px;
-    padding: 10px;
-    margin-top: 5px;
-    margin-left: 50px;
-    display: inline-block;
-    
-    
+body{
+    background-color: rgb(31, 25, 47) !important;
 }
 
-#barra{
-    display: flex;
-    margin-top: 15px;
-    height: 50px;
-
+.btn{
+    background-color:#302c4c !important;
 }
 
-#imageninicio{
+.buscar{
     color: aliceblue;
-    
+    background-color:#302c4c !important;
 }
 
-#navinicio{
-    
+.col-12{
     color: aliceblue;
-    width: 70%;
-    text-align: center;   
 }
 
-#registrar{
-    color: aliceblue;
-    padding-left: 150px;
+.criptos{
+    height: 80px;
+    background-color:#302c4c !important; 
 }
 
-#registrar a{
-    display: block;
-    padding-top: 3px;
-    text-decoration: none;
-    color: aliceblue;
-    
-}
-
-#imageninicio{
-    cursor: pointer;
-    transition: all 0.3s;
-    padding-left: 15px;
-    padding-top: 5px;
-    margin-left: 20px;
-}
-
-#imageninicio img:hover{
-    transform: scale(1.1);
-}
-
-.bx-down-arrow-alt{
+.color{
     background-color: #302c4c;
+}
+
+
+
+/* iniciarSesion css */
+/*  */
+/*  */
+
+.backcolor{
+    background-color: rgb(31, 25, 47);
 }
