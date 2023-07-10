@@ -219,6 +219,29 @@ body{
 /*  */
 /*  */
 
-.backcolor{
-    background-color: rgb(31, 25, 47);
+.formulario-login{
+    margin-top: 150px;
+}
+
+.hr-separador{
+    margin-top: 100px;
+    height: 0px;
+    border: 2px solid aliceblue;
+}
+
+.derechos{
+    color: aliceblue;
+    text-align: center;
+    font-weight: 300;
+}
+
+.derechos2{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+.imagenes-redes{
+    height: 30px;
+
 }
