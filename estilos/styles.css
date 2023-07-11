@@ -215,11 +215,13 @@ body{
 }
 
 .cripto{
-    color: aliceblue;
+    color: aliceblue !important;
     text-decoration: none;
     outline: none;
     background-color: #302c4c;
 }
+
+
 
 
 
