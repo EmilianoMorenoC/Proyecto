@@ -177,7 +177,7 @@
 }
 
 
-/* pagina principal css */
+/* criptomonedas css */
 /*  */
 /*  */
 
@@ -211,6 +211,13 @@ body{
 }
 
 .color{
+    background-color: #302c4c;
+}
+
+.cripto{
+    color: aliceblue;
+    text-decoration: none;
+    outline: none;
     background-color: #302c4c;
 }
 
