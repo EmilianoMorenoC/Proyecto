@@ -198,6 +198,7 @@ body{
 .buscar{
     color: aliceblue;
     background-color:#302c4c !important;
+    margin-top: 150px;
 }
 
 .col-12{
@@ -244,4 +245,11 @@ body{
 .imagenes-redes{
     height: 30px;
 
+}
+
+.navbarr{
+    display: grid !important;
+    gap: 1rem !important;
+    grid-auto-rows: 22rem !important;
+    grid-template-columns: repeat(autofill, minmax(15rem, 1fr)) !important;
 }
